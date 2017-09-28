@@ -1,4 +1,4 @@
-# Lravel5.5-Vue-Element-ui-Vux 环境单间
+# Lravel5.5-Vue-Element-ui-Vux 环境搭建
 
 ## 安装过程
 1. 复制根目录中的.env.example文件为.env 文件
