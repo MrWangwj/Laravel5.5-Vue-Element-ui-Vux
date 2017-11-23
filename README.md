@@ -21,6 +21,6 @@ git clone git@github.com:MrWangwj/Laravel5.5-Vue-Element-ui-Vux.git
 ####4. 提交到自己的GitHub
 
 ```
-git remote add origin git@github.com:MrWangwj/test.git   //后面的git地址修改为自己的
+git origin git@github.com:MrWangwj/test.git   //后面的git地址修改为自己的
 git push -u origin master
 ```
